@@ -1,0 +1,7 @@
+.env*
+!.env.example
+.vercel/
+node_modules/
+public/
+lib/page.js
+*.zip
